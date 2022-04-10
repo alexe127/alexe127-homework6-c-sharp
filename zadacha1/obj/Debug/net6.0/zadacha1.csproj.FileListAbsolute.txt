@@ -1,0 +1,15 @@
+C:\учёба\С#\ДЗ\Семинар 6\zadacha1\bin\Debug\net6.0\zadacha1.exe
+C:\учёба\С#\ДЗ\Семинар 6\zadacha1\bin\Debug\net6.0\zadacha1.deps.json
+C:\учёба\С#\ДЗ\Семинар 6\zadacha1\bin\Debug\net6.0\zadacha1.runtimeconfig.json
+C:\учёба\С#\ДЗ\Семинар 6\zadacha1\bin\Debug\net6.0\zadacha1.dll
+C:\учёба\С#\ДЗ\Семинар 6\zadacha1\bin\Debug\net6.0\zadacha1.pdb
+C:\учёба\С#\ДЗ\Семинар 6\zadacha1\obj\Debug\net6.0\zadacha1.csproj.AssemblyReference.cache
+C:\учёба\С#\ДЗ\Семинар 6\zadacha1\obj\Debug\net6.0\zadacha1.GeneratedMSBuildEditorConfig.editorconfig
+C:\учёба\С#\ДЗ\Семинар 6\zadacha1\obj\Debug\net6.0\zadacha1.AssemblyInfoInputs.cache
+C:\учёба\С#\ДЗ\Семинар 6\zadacha1\obj\Debug\net6.0\zadacha1.AssemblyInfo.cs
+C:\учёба\С#\ДЗ\Семинар 6\zadacha1\obj\Debug\net6.0\zadacha1.csproj.CoreCompileInputs.cache
+C:\учёба\С#\ДЗ\Семинар 6\zadacha1\obj\Debug\net6.0\zadacha1.dll
+C:\учёба\С#\ДЗ\Семинар 6\zadacha1\obj\Debug\net6.0\refint\zadacha1.dll
+C:\учёба\С#\ДЗ\Семинар 6\zadacha1\obj\Debug\net6.0\zadacha1.pdb
+C:\учёба\С#\ДЗ\Семинар 6\zadacha1\obj\Debug\net6.0\zadacha1.genruntimeconfig.cache
+C:\учёба\С#\ДЗ\Семинар 6\zadacha1\obj\Debug\net6.0\ref\zadacha1.dll
